@@ -12,8 +12,11 @@ Class human:
     self.nome = nome # Lucas Fernandes
     self.idade = idade # 21 anos
     self.linguagens = linguagens # Python, C++, Rust, C#
-
+  def dizerOi():
+    return "oi"
+  
 lucas = human("Lucas Fernandes", "21 anos", "Python, C++, Rust, C#")
+print(lucas.dizerOi())
 ```
 
 ## Linguagens e ferramentas
