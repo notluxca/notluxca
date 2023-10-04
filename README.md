@@ -32,13 +32,13 @@
 <br/>
 
 <a href="https://github.com/notluxca">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=notluxca&theme=dracula&show_icons=true" />
 </a>
 
 <h3>Onde me encontrar</h3>
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/lucas-rocha-fernandes-016505230/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:lucasrochafernandes20@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-rocha-fernandes-016505230/)](https://www.linkedin.com/in/lucas-rocha-fernandes-016505230/)
+[![Gmail Badge](https://img.shields.io/badge/lucasrochafernandes20@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasrochafernandes20@gmail.com)](mailto:lucasrochafernandes20@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/notluxca?label=follow&style=social)](
 https://github.com/notluxca
 )
