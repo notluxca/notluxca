@@ -6,15 +6,12 @@ Olá, meu nome é Lucas, sou um desenvolvedor de software de 21 anos apaixonado 
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-```kotlin
-object **Lucas** {
- val name = "Lucas Fernandes"
- val acknowledgements = "Game Development"
-
- val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf( "Python", "C#","JavaScript", "C++", "Rust")
-
-}
+```python
+Class human:
+  def __init__(self, nome, idade, linguagens):
+    self.nome = nome # Lucas Fernandes
+    self.idade = idade # 21 anos
+    self.linguagens = linguagens # Python, C++, Rust, C#
 ```
 
 ## Linguagens e ferramentas
