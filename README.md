@@ -12,6 +12,8 @@ Class human:
     self.nome = nome # Lucas Fernandes
     self.idade = idade # 21 anos
     self.linguagens = linguagens # Python, C++, Rust, C#
+
+lucas = human("Lucas Fernandes", "21 anos", "Python, C++, Rust, C#")
 ```
 
 ## Linguagens e ferramentas
