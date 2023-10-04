@@ -1,6 +1,6 @@
-# Oie devs 👋
+# Olá!! 👋
 
-Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
+Olá, meu nome é Lucas, sou um desenvolvedor de software de 21 anos apaixonado por Desenvolvimento de Jogos e com um grande amor por Python. Eu moro no Rio de Janeiro, Brasil, e também tenho interesse em Sistemas de RF, Eletrônica, RC (controle remoto), Aviação e Matemática.
 
 ## Mais sobre mim
 
