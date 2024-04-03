@@ -2,7 +2,7 @@
 
 Olá, meu nome é Lucas, sou um desenvolvedor de software de 21 anos apaixonado por Desenvolvimento de Jogos e com um grande amor por Python. Eu moro no Rio de Janeiro, Brasil, e também tenho interesse em Sistemas de RF, Eletrônica, RC (controle remoto), Aviação e Matemática.
 
-Atualmente trablhando em Long Night Studios.
+Atualmente trabalhando em Long Night Studios.
 
 ## Mais sobre mim
 
