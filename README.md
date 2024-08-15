@@ -1,10 +1,9 @@
-# Olá!! 👋
+# Hey!! 👋
 
-Olá, meu nome é Lucas, sou um desenvolvedor de software de 21 anos apaixonado por Desenvolvimento de Jogos e com um grande amor por Python. Eu moro no Rio de Janeiro, Brasil, e também tenho interesse em Sistemas de RF, Eletrônica, RC (controle remoto), Aviação e Matemática.
+Hi, I'm Lucas and i develop games and related tech
 
-Atualmente trabalhando em Long Night Studios.
 
-## Mais sobre mim
+## more about me 
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
@@ -21,7 +20,7 @@ lucas = human("Lucas Fernandes", "21 anos", "Python, C++, Rust, C#")
 print(lucas.dizerOi())
 ```
 
-## Linguagens e ferramentas
+## Languages
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -48,7 +47,7 @@ print(lucas.dizerOi())
 
 <br>
 
-## Rede sociais
+## Social Networks
 
 🏡 [Website][website] **luxca.xyz**
 🐦 [Twitter][twitter] **notluxca**
