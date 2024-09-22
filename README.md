@@ -12,7 +12,7 @@ class human:
   def __init__(self, nome, idade, linguagens):
     self.nome = nome # Lucas Fernandes
     self.idade = idade # 21 anos
-    self.linguagens = linguagens # Python, C++, Rust, C#
+    self.linguagens = linguagens # Python, C#, Lua
   def dizerOi():
     return "oi"
   
