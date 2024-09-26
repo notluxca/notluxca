@@ -16,7 +16,7 @@ class human:
   def dizerOi():
     return "oi"
   
-lucas = human("Lucas Fernandes", "21 anos", "Python, C++, Rust, C#")
+lucas = human("Lucas Fernandes", "21 anos", "Python, C#, Lua")
 print(lucas.dizerOi())
 ```
 
