@@ -37,6 +37,9 @@ print(lucas.dizerOi())
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=notluxca&show_icons=true&theme=dracula&line_height=27" alt="**Lucas Fernandes** github stats"/>
 </a>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
+
 [website]: https://luxca.xyz
 [twitter]: https://twitter.com/notluxca
 [instagram]: https://www.instagram.com/notluxca/
