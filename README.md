@@ -35,17 +35,9 @@ print(lucas.dizerOi())
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notluxca&theme=dracula&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/notluxaca">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=notluxca&show_icons=true&theme=dracula&line_height=27" alt="**Lucas Fernandes** github stats"/>
-</a>
 
-[linkedin]: https://www.linkedin.com/in/lucas-fernandes-016505230/
 
 <br>
 
 ## Social Networks
-
-🏡 [Website][website] **luxca.xyz**
-🐦 [Twitter][twitter] **notluxca**
-📷 [Instagram][instagram] **notluxca**
-👔 [LinkedIn]Lucas Fernandes[linkedin]
+👔 [LinkedIn]https://www.linkedin.com/in/lucas-fernandes-016505230/
