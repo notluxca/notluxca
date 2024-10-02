@@ -29,6 +29,8 @@ print(lucas.dizerOi())
 
 ## Status
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=notluxca)](https://git.io/streak-stats)
+
 <a href="https://github.com/notluxca">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notluxca&theme=dracula&hide_langs_below=1" />
 </a>
@@ -37,7 +39,6 @@ print(lucas.dizerOi())
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=notluxca&show_icons=true&theme=dracula&line_height=27" alt="**Lucas Fernandes** github stats"/>
 </a>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=notluxca)](https://git.io/streak-stats)
 
 
 [website]: https://luxca.xyz
