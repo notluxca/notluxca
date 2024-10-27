@@ -39,5 +39,3 @@ print(lucas.dizerOi())
 
 <br>
 
-## Social Networks
-👔 [LinkedIn]https://www.linkedin.com/in/lucas-fernandes-016505230/
