@@ -1,6 +1,6 @@
 # Hey!! 👋
 
-Hi, I'm Lucas and i develop games and related tech
+Hi, I'm Lucas and I develop games and related tech
 
 
 ## more about me 
