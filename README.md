@@ -20,7 +20,11 @@ lucas = human("Lucas Fernandes", "21 anos", "Python, C#, Lua")
 print(lucas.dizerOi())
 ```
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=notluxca&theme=microsoft-dark&hide_border=true&border=8239EB&background=45%2C431F42%2C612D60&hide_current_streak=true)](https://git.io/streak-stats)
-
+  <div>
+    <a href="https://git.io/streak-stats">
+      <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=username&theme=tokyonight-duo&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" style="margin-top: 20px;"/>
+    </a>
+  </div>
+  
 <br>
 
