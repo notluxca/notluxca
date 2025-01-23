@@ -11,11 +11,12 @@ Hi, I'm Lucas and I develop games and related tech
 class human:
   def __init__(self, nome, idade, linguagens):
     self.nome = nome # Lucas Fernandes
-    self.idade = idade # 21 anos
+    self.idade = idade # 22 anos
     self.linguagens = linguagens # Python, C#, Lua
+
   def dizerOi():
     return "oi"
-  
+
 lucas = human("Lucas Fernandes", "21 anos", "Python, C#, Lua")
 print(lucas.dizerOi())
 ```
