@@ -10,14 +10,14 @@ Hi, I'm Lucas and I develop games and related tech
 ```python
 class human:
   def __init__(self, nome, idade, linguagens):
-    self.nome = nome # Lucas Fernandes
-    self.idade = idade # 22 anos
-    self.linguagens = linguagens # Python, C#, Lua
+    self.nome = nome
+    self.idade = idade
+    self.linguagens = linguagens 
 
   def dizerOi():
     return "oi"
 
-lucas = human("Lucas Fernandes", "21 anos", "Python, C#, Lua")
+lucas = human("Lucas Fernandes", "22 anos", "Python, C#, Lua")
 print(lucas.dizerOi())
 ```
 
